@@ -1,0 +1,30 @@
+_repo: Le-Cr-puscule-des-Dieux_42036
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42036-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bourges, Elémir
+    aliases:
+    - Bourges, Élémir
+    - Bourges, Elemir
+    birthdate: 1852
+    deathdate: 1925
+    gutenberg_agent_id: '41489'
+    url: http://www.gutenberg.org/2009/agents/41489
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42036'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 19th century'
+title: Le Crépuscule des Dieux
+url: http://www.gutenberg.org/ebooks/42036
