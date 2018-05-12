@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '41489'
     url: http://www.gutenberg.org/2009/agents/41489
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42036#Le-Cr-puscule-des-Dieux
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-02-06'
 gutenberg_type: Text
